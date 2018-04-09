@@ -1,0 +1,4 @@
+.idea/
+results/*
+tests/.pytest_cache
+vid_ids.txt
